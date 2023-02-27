@@ -1,3 +1,4 @@
 .idea
+res
 fetch.py
-
+!res/vgg_lotteryticket10_equal_l5_nocenter
